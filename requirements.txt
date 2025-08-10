@@ -1,7 +1,5 @@
-discord.py==2.3.2
-flask==2.3.3
-flask-sqlalchemy==3.0.5
+discord.py==2.4.1
+Flask==2.2.5
 python-dotenv==1.0.0
-uvicorn
-fastapi
-discord.py
+aiohttp==3.8.4
+youtube_dl==2021.12.17
