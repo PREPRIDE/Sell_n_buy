@@ -277,7 +277,7 @@ class MainMenuView(View):
             )
             embed.add_field(
                 name="Commands",
-                value="• `/kick` - Remove member from server
+                value='/kick'  # Corrected
 • `/ban` - Permanently ban member
 • `/warn` - Issue warning
 • `/mute` - Temporarily mute member
